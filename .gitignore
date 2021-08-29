@@ -1,4 +1,5 @@
 config.py
-ratings.csv
+*.csv
 .ipynb_checkpoints/cleaning_notebook-checkpoint.ipynb
 __pycache__/config.cpython-37.pyc
+
